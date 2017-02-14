@@ -1,0 +1,15 @@
+body {
+	background-image:;
+}
+
+.container {
+	letter-space: 3px;
+	align-content: center;
+}
+
+#scoreboard {
+	border:solid 1px;
+	background-color: lightgray;
+	width: 40%;
+	align-content: center;
+}
